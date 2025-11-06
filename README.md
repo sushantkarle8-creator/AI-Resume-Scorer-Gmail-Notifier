@@ -44,7 +44,7 @@ Copy code
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/jayraj-patil/ai-resume-scorer.git
+git clone https://github.com/sushant-karle/ai-resume-scorer.git
 cd ai-resume-scorer
 2️⃣ Install Dependencies
 bash
